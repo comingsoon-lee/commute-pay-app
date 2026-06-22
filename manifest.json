@@ -1,6 +1,6 @@
 {
-  "name": "급여 정산 관리 시스템",
-  "short_name": "급여 정산",
+  "name": "쌤페이 (Ssam-Pay)",
+  "short_name": "쌤페이",
   "description": "우리 아이 등하원 선생님의 근무 시간을 기록하고 월별 급여를 자동으로 정산해주는 어플리케이션입니다.",
   "start_url": "./index.html",
   "display": "standalone",
